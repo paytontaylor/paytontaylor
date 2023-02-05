@@ -22,7 +22,7 @@
   - Flask
   - SQLAlchemy
 
-- #### Interests
+- #### Planned technologies to learn
   - TypeScript
   - Go
   - AWS
