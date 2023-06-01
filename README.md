@@ -7,8 +7,7 @@
 
 ## Education
 - #### Springboard
-  - September 2022 - July 2023
-- #### Zero to Mastery
+  - September 2022 - September 2023
 
 ## Technologies
 
@@ -21,15 +20,14 @@
 - #### Python
   - Flask
   - SQLAlchemy
+- #### Java
 
 - #### Planned technologies to learn
   - TypeScript
-  - Go
   - AWS
   - Docker/Kubernetes
   - Linux
   - Next.js
-  - Deno
 
 <!---
 paytontaylor/paytontaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
