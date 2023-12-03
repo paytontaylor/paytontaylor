@@ -23,11 +23,10 @@
 - #### Java
 
 - #### Planned technologies to learn
-  - TypeScript
-  - AWS
+  - GCP
+  - Go
   - Docker/Kubernetes
   - Linux
-  - Next.js
 
 <!---
 paytontaylor/paytontaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
